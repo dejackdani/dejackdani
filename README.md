@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dejackdani
+- 👀 I’m interested in Web Application and Iot
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to collaborate on... nothing for now.
+- 📫 How to reach me? just send me a msg
